@@ -21,4 +21,3 @@ let printCard = function() {
   )
 }
 
-printCard.call(configuration)
